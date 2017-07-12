@@ -1,1 +1,1 @@
-web: build/install/pratica7/bin/practica7
+web: build/install/practica7/bin/practica7
