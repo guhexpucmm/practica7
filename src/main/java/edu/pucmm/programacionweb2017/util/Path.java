@@ -2,7 +2,7 @@ package edu.pucmm.programacionweb2017.util;
 
 public class Path {
     public static class Web {
-        public static final String INICIO = "/inicio";
+        public static final String INICIO = "/";
         public static final String NUEVO_ESTUDIANTE = "/nuevo/estudiante";
         public static final String BORRAR_ESTUDIANTE = "/borrar/estudiante/:matricula";
         public static final String EDITAR_ESTUDIANTE = "/editar/estudiante/:matricula";

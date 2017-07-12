@@ -8,7 +8,7 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="/inicio">CRUD Estudiante</a>
+            <a class="navbar-brand" href="/">CRUD Estudiante</a>
         </div>
     </div>
 </nav>
@@ -51,7 +51,7 @@
                         <br>
                         <div>
                             <button class="btn btn-success" type="submit">Actualizar</button>
-                            <button class="btn btn-danger" onclick="location.href='/inicio'">Cancelar</button>
+                            <button class="btn btn-danger" onclick="location.href='/'">Cancelar</button>
                         </div>
                     </form>
                 </div>
@@ -98,7 +98,7 @@
                         <br>
                         <div>
                             <button class="btn btn-success" type="submit">Agregar</button>
-                            <button class="btn btn-danger" onclick="location.href='/inicio'">Cancelar</button>
+                            <button class="btn btn-danger" onclick="location.href='/'">Cancelar</button>
                         </div>
                     </form>
                 </div>

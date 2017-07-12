@@ -1338,7 +1338,7 @@
       <workItem from="1499481024391" duration="1428000" />
       <workItem from="1499482588843" duration="5852000" />
       <workItem from="1499800726037" duration="2597000" />
-      <workItem from="1499868568948" duration="1086000" />
+      <workItem from="1499868568948" duration="1405000" />
     </task>
     <task id="LOCAL-00001" summary="Funcionalidad borrar y visualizar terminada.">
       <created>1499479526583</created>
@@ -1428,7 +1428,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24883000" />
+    <option name="totallyTimeSpent" value="25202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />

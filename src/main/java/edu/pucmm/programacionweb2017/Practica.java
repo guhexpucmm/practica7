@@ -15,7 +15,7 @@ public class Practica {
         enableDebugScreen();
         setConfiguraciones();
         setHeroku();
-        setRedireccion();
+        //setRedireccion();
         setRutas();
         setEstudiantes();
     }
