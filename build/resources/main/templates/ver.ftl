@@ -8,7 +8,7 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="/inicio">CRUD Estudiante</a>
+            <a class="navbar-brand" href="/">CRUD Estudiante</a>
         </div>
     </div>
 </nav>
@@ -21,7 +21,7 @@
                     <h2>Registro de estudiante</h2>
                 </div>
                 <div class="panel-body">
-                    <form action="/inicio" method="GET" class="form-signin" id="formulario-usuario">
+                    <form action="/" method="GET" class="form-signin" id="formulario-usuario">
                         <br>
                         <div>
                             <label for="matricula"><strong>Matricula:</strong> ${estudiante.getMatriculaString()}</label>
